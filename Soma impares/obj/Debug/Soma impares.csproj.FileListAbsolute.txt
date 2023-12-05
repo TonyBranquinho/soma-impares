@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Soma impares\Soma impares\bin\Debug\Soma impares.exe.config
+C:\temp\ws-vs2019\Soma impares\Soma impares\bin\Debug\Soma impares.exe
+C:\temp\ws-vs2019\Soma impares\Soma impares\bin\Debug\Soma impares.pdb
+C:\temp\ws-vs2019\Soma impares\Soma impares\obj\Debug\Soma impares.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Soma impares\Soma impares\obj\Debug\Soma impares.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Soma impares\Soma impares\obj\Debug\Soma impares.exe
+C:\temp\ws-vs2019\Soma impares\Soma impares\obj\Debug\Soma impares.pdb
